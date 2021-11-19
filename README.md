@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sundarakalathi K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundarakalathi-k&label=Profile%20views&color=0e75b6&style=flat" alt="sundarakalathi-k" /> </p>
-- 🔭 I’m currently working on **Edu-Rooms**
-- 🌱 I’m currently learning **React.js**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤝 I’m looking for help with **Front-End Development**
-- 💬 Ask me about **Innovation Ideas**
-- 📫 How to reach me **sundarakalathi1311@gmail.com**
+- 🔭 I’m currently working on Edu-Rooms<br>
+- 🌱 I’m currently learning React.js <br>
+- 👯 I’m looking to collaborate on Open Source Projects <br>
+- 🤝 I’m looking for help with Front-End Development <br>
+- 💬 Ask me about Innovation Ideas <br>
+- 📫 How to reach me sundarakalathi1311@gmail.com <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/sundarakalathi k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sundarakalathi k" height="30" width="40" /></a>
