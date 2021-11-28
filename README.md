@@ -82,9 +82,8 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sundarakalathik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sundarakalathik" /></a></p>
-<br><br> &nbsp;
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=sundarakalathi-k&show_icons=true&locale=en&layout=compact" alt="sundarakalathi-k" /></p>
-<p>&nbsp;<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=sundarakalathi-k&show_icons=true&locale=en" alt="sundarakalathi-k" /></p>
-<p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sundarakalathi-k&" alt="sundarakalathi-k" /></p>
+
+
+| ![Sundar GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sundarakalathi-k&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundarakalathi-k) |
+| --- | --- |
+| ![sundar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundarakalathi-k) | If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/sundarakalathik) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/sundarakalathik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a> |
