@@ -1,10 +1,14 @@
+
+ ![Header](./header.png "Header")
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sundarakalathi K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundarakalathi-k&label=Profile%20views&color=0e75b6&style=flat" alt="sundarakalathi-k" /> </p>
-- 🔭 I’m currently working on Edu-Rooms<br>
-- 🌱 I’m currently learning React.js <br>
-- 👯 I’m looking to collaborate on Open Source Projects <br>
-- 🤝 I’m looking for help with Front-End Development <br>
+
+- 🔭 I’m currently working on **Edu-Rooms**<br>
+- 🌱 I’m currently learning **React.js** <br>
+- 👯 I’m looking to collaborate on **Open Source Projects** <br>
+- 🤝 I’m looking for help with **Front-End Development** <br>
 - 💬 Ask me about Innovation Ideas <br>
 - 📫 How to reach me sundarakalathi1311@gmail.com <br><br>
 
