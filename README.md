@@ -1,8 +1,13 @@
 
  ![Header](./header.png "Header")
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sundarakalathi K</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sundarakalathi K <img src="https://user-images.githubusercontent.com/61245841/143833321-c4a88d01-4448-47b9-a1b0-2b9f609e1270.png" width="65">
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h3 align ="center"> Dog Lover ♥
+	<br><br>
+	<img src="https://user-images.githubusercontent.com/61245841/143832370-89df17a9-b4ba-4a74-afa5-96bd1f2c1724.gif" width="125">
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundarakalathi-k&label=Profile%20views&color=0e75b6&style=flat" alt="sundarakalathi-k" /> </p>
 
 - 🔭 I’m currently working on **Edu-Rooms**<br>
