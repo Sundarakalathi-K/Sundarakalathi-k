@@ -17,6 +17,8 @@
 - 💬 Ask me about Innovation Ideas <br>
 - 📫 How to reach me sundarakalathi1311@gmail.com <br><br>
 
+<img  align ="right" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="55">
+
 ```javascript
 // Which came first: the chicken or the egg?
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
