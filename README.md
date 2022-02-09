@@ -10,7 +10,7 @@
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundarakalathi-k&label=Profile%20views&color=0e75b6&style=flat" alt="sundarakalathi-k" /> </p>
 
-- 🔭 I’m currently working on **Edu-Rooms**<br>
+- 🔭 I’m currently working on **Nope not working just fun lol 😅😂😁**<br>
 - 🌱 I’m currently learning **React.js** <br>
 - 👯 I’m looking to collaborate on **Open Source Projects** <br>
 - 🤝 I’m looking for help with **Front-End Development** <br>
