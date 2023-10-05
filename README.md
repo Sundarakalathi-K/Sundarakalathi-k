@@ -37,7 +37,8 @@ if __name__ == '__main__':
 
 
 ```
-
+<br>
+<br>
 
 - 🔭 I’m currently working on **Node Farm** <br>
 - 🌱 I’m currently learning **Node.js** <br>
@@ -47,6 +48,7 @@ if __name__ == '__main__':
 - 📫 How to reach me sundarakalathi1311@gmail.com <br><br>
 
 <img  align ="right" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="55">
+<br>
 
 ```javascript
 // Which came first: the chicken or the egg?
@@ -54,6 +56,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 >>> ["🐔", "🐣", "🐥", "🥚"];
 ```
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/sundarakalathi k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sundarakalathi k" height="30" width="40" /></a>
