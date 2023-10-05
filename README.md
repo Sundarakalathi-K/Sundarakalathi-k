@@ -10,10 +10,39 @@
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundarakalathi-k&label=Profile%20views&color=0e75b6&style=flat" alt="sundarakalathi-k" /> </p>
 
-- 🔭 I’m currently working on **Nope not working just fun lol 😅😂😁**<br>
-- 🌱 I’m currently learning **React.js** <br>
+```python
+class Sundarakalathi:
+
+    def __init__(self):
+        self.username = 'Sundarakalathi-K'
+        self.name = 'Sundarakalathi'
+        self.web = 'https://sundarakalathi-k.github.io/Portfolio/'
+        self.linkedin = '@sundarakalathi-k'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap', 'TailWind'],
+            'backend': ['Python', 'PHP', 'Laravel', 'NodeJS'],
+            'database': ['MySQL', 'Mongo DB'],
+            'devops': [ 'AWS', 'Docker', 'Nginx', 'Jenkins', 'GitHub Actions'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook'],
+            'misc': ['GNU/Linux']
+        }
+        self.architecture = ['MVC', 'Serverless']
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Sundarakalathi()
+
+
+```
+
+
+- 🔭 I’m currently working on **Node Farm** <br>
+- 🌱 I’m currently learning **Node.js** <br>
 - 👯 I’m looking to collaborate on **Open Source Projects** <br>
-- 🤝 I’m looking for help with **Front-End Development** <br>
+- 🤝 I’m looking for help with **Front-End Development** & **Designing** <br>
 - 💬 Ask me about Innovation Ideas <br>
 - 📫 How to reach me sundarakalathi1311@gmail.com <br><br>
 
@@ -55,27 +84,15 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 </p>
 
-<h3 align="left">App Development </h3>
-<p align="left">
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>&nbsp;
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-
-</p>
 
 <h3 align="centre">Database </h3> 
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Server </h3> 
-<p align="left">
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-</p>
-
 <h3 align="left"> ☁ Technology </h3> 
 <p align="left">
+	<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon_aws" width="50" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
 
@@ -86,15 +103,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 </p>
 
-<h3 align="left">Libraries i know </h3>
-<p align="left">
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>&nbsp;
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 
-</p>
-
-
-
-| ![Sundar GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sundarakalathi-k&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundarakalathi-k) |
+| <img src="https://github-readme-stats.vercel.app/api?username=Sundarakalathi-K&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sundarakalathi-K's GitHub Stats">| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundarakalathi-k&theme=react) |
 | --- | --- |
-| ![sundar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundarakalathi-k) | If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/sundarakalathik) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/sundarakalathik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a> |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sundarakalathi-K&theme=tokyonight-duo)](https://git.io/streak-stats)| If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/sundarakalathik) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/sundarakalathik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="120" /></a> |
